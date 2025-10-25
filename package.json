@@ -1,0 +1,16 @@
+{
+  "name": "tea-db",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "seed": "ts-node scripts/seed.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "firebase": "^10.14.0",
+    "firebase-admin": "^12.6.0"
+  }
+}
