@@ -1,0 +1,4 @@
+[
+  { "uid": "user_hojin", "displayName": "조호진", "email": "hojin@example.com", "role": "admin" },
+  { "uid": "user_panel_01", "displayName": "패널A", "email": "panelA@example.com", "role": "panel" }
+]

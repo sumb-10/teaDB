@@ -1,0 +1,9 @@
+# env
+.env.local
+# Firebase admin key
+scripts/serviceAccountKey.json
+# Node
+node_modules
+# Builds
+.next
+dist

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "A2025-001",
+    "teaId": "2023-dongding-oolong",
+    "userId": "user_panel_01",
+    "tastingDate": "2025-10-25T09:30:00Z",
+    "thickness": 4.0, "density": 3.5, "softness": 3.0, "clarity": 4.5, "granularity": 4.0,
+    "aromaContinuity": 4.0, "aromaLength": 4.5, "refinement": 3.5, "delicacy": 4.0, "afterAroma": 3.5,
+    "notes": "맑고 깔끔, 은은한 꽃향", "aromaTags": ["꽃향", "견과"]
+  },
+  {
+    "id": "A2025-002",
+    "teaId": "2023-dongding-oolong",
+    "userId": "user_hojin",
+    "tastingDate": "2025-10-25T10:20:00Z",
+    "thickness": 3.5, "density": 3.5, "softness": 3.0, "clarity": 4.0, "granularity": 3.5,
+    "aromaContinuity": 4.0, "aromaLength": 4.0, "refinement": 3.5, "delicacy": 3.5, "afterAroma": 3.5,
+    "notes": "밸런스 좋음", "aromaTags": ["꿀", "곡물"]
+  }
+]
